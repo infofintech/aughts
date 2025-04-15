@@ -1,4 +1,4 @@
-# Aughts Music Project
+# Music Museum Project (Early 21th Century)
 
 A free web collection of music from around the world.
 
@@ -12,7 +12,7 @@ This playlist includes most popular music during the 2000's, especially includin
 
 - NSYNC, later introduced with one of its members, Justin Timberlake, which also included here.
 - Pussycat Dolls, later introduced with one of its members, Nicole Scherzinger, which also included here.
-- Nappy Headz, later introduced with one of its members, T-PAIN.
+- Nappy Headz, later introduced with one of its members, T-Pain.
 - Destiny's Child, later introduced with one of its members, Beyoncé.
 - Black Eyed Peas, later introduced with one of its members, Will.i.am, which also included here.
 - NEW* artists: Rihanna, Shakira, Nelly Furtado, Timbaland, Selena Gomez, Usher, Maroon 5.
